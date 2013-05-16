@@ -42,14 +42,14 @@ Arity/Prolog32 encompasses all of the predicates and functionality of Prolog ass
 
 These features include:
 
-    Expanded database support providing control over data persistence and including linked records, B-trees, hash tables and the ability to create specialized indexing structures;
-    The ability of Arity/Prolog32 code to call and be called by code written in other  languages, including ‘C’;
-    Text support including an integrated approach to atoms and strings;
-    File management including input and output to file handles;
-    Multi-threaded programming support;
-    Run-time loadable dynamic linked library support;
-    Sophisticated arithmetic operations including an integrated approach to integer and floating point numbers; and
-    Many other extensions.
+* Expanded database support providing control over data persistence and including linked records, B-trees, hash tables and the ability to create specialized indexing structures;
+* The ability of Arity/Prolog32 code to call and be called by code written in other  languages, including ‘C’;
+* Text support including an integrated approach to atoms and strings;
+* File management including input and output to file handles;
+* Multi-threaded programming support;
+* Run-time loadable dynamic linked library support;
+* Sophisticated arithmetic operations including an integrated approach to integer and floating point numbers; and
+* Many other extensions.
 
 Arity/Prolog32 provides a compiler which creates highly efficient static code, an interpreter for dynamic (run-time modifiable) code, and an extended interpreter with features that aid in the debugging of Prolog programs.  The extended interpreter is itself extensible with the ability for compiled code to be added.
 
