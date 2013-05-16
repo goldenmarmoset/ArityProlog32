@@ -4,7 +4,7 @@ ArityProlog32
 Arity's Prolog Compiler and Interpreter for Microsoft Windows open source
 
 
-Arity/Prolog32 was developed at Arity Corporation by Peter Gabel, Paul Weiss, and Jim Greene. For a number of years Arity provided binaries for Arity/Prolog32 at no charge.  Now, both source and binaries are available on Github as open software with the very liberal MIT license. Complete documentation is available at www.peter-gabel.com.
+Arity/Prolog32 was developed at Arity Corporation by Peter Gabel, Paul Weiss, and Jim Greene. For a number of years Arity provided binaries for Arity/Prolog32 at no charge.  Now, source code is available on Github as open software with the very liberal MIT license. Complete documentation and zipped distribution of executables are available at www.peter-gabel.com.
 
  
 What Is Prolog?
